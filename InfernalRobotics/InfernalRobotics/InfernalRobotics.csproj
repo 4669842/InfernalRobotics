@@ -31,25 +31,28 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>..\..\..\KSP_LIB\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript-firstpass">
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\Assembly-UnityScript-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\KSP_LIB\Assembly-CSharp.dll</HintPath>
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Scale_Redist">
-      <HintPath>..\..\..\KSP_LIB\Scale_Redist.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\TweakScale-2.3.7\bin\Debug\Scale_Redist.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\KSP_LIB\UnityEngine.dll</HintPath>
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="KSPAssets">
-      <HintPath>..\..\..\KSP_LIB\KSPAssets.dll</HintPath>
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\KSPAssets.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\..\..\KSP_LIB\UnityEngine.UI.dll</HintPath>
+      <HintPath>F:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
